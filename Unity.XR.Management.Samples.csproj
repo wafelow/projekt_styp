@@ -53,8 +53,8 @@
     <UnityVersion>2020.3.26f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Samples\XR Plugin Management\4.0.7\Example XR Management implementation\SampleConstants.cs" />
     <Compile Include="Assets\Samples\XR Plugin Management\4.0.7\Example XR Management implementation\SampleSettings.cs" />
+    <Compile Include="Assets\Samples\XR Plugin Management\4.0.7\Example XR Management implementation\SampleConstants.cs" />
     <Compile Include="Assets\Samples\XR Plugin Management\4.0.7\Example XR Management implementation\SampleLoader.cs" />
   </ItemGroup>
   <ItemGroup>
